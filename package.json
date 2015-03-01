@@ -1,0 +1,20 @@
+{
+  "name" : "test",
+  "version" : "0.0.1",
+  "main" : "./server.js",
+  "author" : {
+    "name" : "pawel.tkaczyk",
+    "email" : "you@email.example"
+  },
+  "keywords" : [ ],
+  "licenses" : {
+    "type" : "none"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/YOUR_LOGIN/Hello World.git"
+  },
+  "bugs" : {
+    "url" : "http://github.com/YOUR_LOGIN/Hello World/issues"
+  }
+}
